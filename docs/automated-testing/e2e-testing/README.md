@@ -135,7 +135,7 @@ The testers create fully automated test scenarios without coding. Customers find
 
 Run tests in parallel or on a Selenium Grid with built-in Selenium WebDriver. Ranorex Studio integrates with your CI/CD process to shorten your release cycles without sacrificing quality.
 
-**Ranorex Studio** tests also integrate with Azure DevOps (AzDO), which can be run as part of a build pipeline in AzDO.
+**Ranorex Studio** tests also integrate with Azure DevOps (AzDO), and can be run as part of a build pipeline in AzDO.
 
 [Ranorex Studio Website](https://www.ranorex.com/free-trial)
 
