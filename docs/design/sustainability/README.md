@@ -53,5 +53,4 @@ Engineering](https://docs.microsoft.com/en-us/learn/modules/sustainable-software
 - [Azure GreenAI Carbon-Intensity API](http://azure-uw-cli-2021.azurewebsites.net/home)
 - [Carbon-Aware SDK](https://github.com/Green-Software-Foundation/carbon-aware-sdk)
 - ["Awesome List" of Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
-- [Green Energy Hub (Energinet)](https://github.com/Energinet-DataHub/green-energy-hub)
 - [Sustainability through SpotVMs](https://github.com/hybridflux/SparkOnSpot)
